@@ -17,8 +17,7 @@ Ammonia decomposition · plasmonic/hot-electron catalysis · Ni, Cu and CeO₂ s
 DFT+U · reaction mechanisms and microkinetics
 
 ## Toolbox
-Python (ASE, NumPy, SciPy, pandas, Matplotlib) · VASP · HPC (PBS, NCI Gadi) · Jupyter ·
-GC, XPS, XRD, Raman, DRIFTS data processing · LaTeX
+Python (ASE, NumPy, SciPy, pandas, Matplotlib) · VASP · HPC (PBS, NCI Gadi) · Jupyter · LaTeX
 
 ## Get in touch
 📫 karanmenoncom@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
