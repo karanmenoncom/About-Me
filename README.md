@@ -12,8 +12,6 @@ with experiments, and I build the automation that connects the two.
 ## Research interests
 Ammonia decomposition · plasmonic/hot-electron catalysis · DFT+U · Mechanisms of Catalytic reactions · Reactor Automation and Control Engineering
 
-## Toolbox
-Python (ASE, NumPy, SciPy, pandas, Matplotlib) · VASP · HPC (PBS, NCI Gadi) · Jupyter · LaTeX
 
 ## Get in touch
 📫 karanmenoncom@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
