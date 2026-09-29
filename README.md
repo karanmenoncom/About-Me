@@ -6,15 +6,11 @@ with experiments, and I build the automation that connects the two.
 ## What I build
 - **[Reactor automation](https://github.com/karanmenoncom/REPO-NAME)**: control and logging
   for catalytic reactor experiments.
-- **[gadivasp](https://github.com/karanmenoncom/gadivasp)**: my VASP + ASE + Gadi workflow.
-  Slabs, calculator setup and `qsub` submission happen in one notebook call. It also covers
-  charged-slab (hot-electron) models, frozen-slab ZPE, NH₃ vibrational-mode analysis and
-  Bader charge analysis.
+- **[gadivasp](https://github.com/karanmenoncom/gadivasp)**: my VASP + ASE + Gadi workflow. The workflow comprises of  slab/crystal structure creation, calculator setup, job submission, post-processing data and visualisation in one notebook environment. It also covers integration from other popular repositories like VASPKIT , and Bader charge analysis.
 - 
 
 ## Research interests
-Ammonia decomposition · plasmonic/hot-electron catalysis · Ni, Cu and CeO₂ surfaces ·
-DFT+U · reaction mechanisms and microkinetics
+Ammonia decomposition · plasmonic/hot-electron catalysis · DFT+U · Mechanisms of Catalytic reactions · Reactor Automation and Control Engineering
 
 ## Toolbox
 Python (ASE, NumPy, SciPy, pandas, Matplotlib) · VASP · HPC (PBS, NCI Gadi) · Jupyter · LaTeX
